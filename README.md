@@ -14,11 +14,11 @@
 
 ## Функции потоков данных бизнес-доменов
 
- <img width="823" height="677" alt="image" src="https://github.com/user-attachments/assets/eb63cceb-b881-4155-8440-1700ed25cb0a" />
+<img width="1288" height="881" alt="image" src="https://github.com/user-attachments/assets/0a3d1ed5-8970-4aa9-9eb0-5bf5f8d681c6" />
 
 ## Архитектура программных систем и интеграций
 
-<img width="909" height="639" alt="image" src="https://github.com/user-attachments/assets/ba6d7464-dc95-4e1b-80db-2898b6073dfb" />
+<img width="1037" height="971" alt="image" src="https://github.com/user-attachments/assets/4da149b7-392a-43df-bb60-51fd739bfff6" />
 
 ## Отчет по реестру точек интеграции
 
