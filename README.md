@@ -14,7 +14,7 @@
 
 ## Функции потоков данных бизнес-доменов
 
-<img width="1288" height="881" alt="image" src="https://github.com/user-attachments/assets/0a3d1ed5-8970-4aa9-9eb0-5bf5f8d681c6" />
+<img width="1296" height="881" alt="image" src="https://github.com/user-attachments/assets/c8001897-f2d8-4de3-96af-0e3a38d9eac4" />
 
 ## Архитектура программных систем и интеграций
 
